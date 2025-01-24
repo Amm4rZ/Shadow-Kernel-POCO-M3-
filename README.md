@@ -1,7 +1,7 @@
 # Shadow-Kernel-POCO-M3-
-Change Your Defaul Kernel (Shadow)
+Change your Default Kernel to (Shadow)
 
-Creator of this kernel is (Zaidan)
+Creator of this Kernel is (Zaidan)
 
 Download on Pling
 https://www.pling.com/p/2125227/
